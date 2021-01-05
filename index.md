@@ -1,5 +1,41 @@
-因部分国家博客如果很多文字发出不合规矩就会被屏蔽，别人看不到，所以到这个平台看看，人类发声应该不要阻止，如果发声人是错的，别人会不管，不能捂住发声的人，那样不对。
-# [信条](https://github.com/killerwpc/killerwpc.GitHub.io/blob/main/%E4%BF%A1%E6%9D%A1/1.md "##信条")
-<div align=center> 
-<img src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb2RxNGJ4X2V1UjBwUlp5Qm5YSGg3TG51dTQy.jpg" width = 500 height = 300 > 
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title></title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="killerwpc.GitHub.io" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://killerwpc.github.io/" />
+<meta property="og:url" content="https://killerwpc.github.io/" />
+<meta property="og:site_name" content="killerwpc.GitHub.io" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"killerwpc.GitHub.io","url":"https://killerwpc.github.io/","name":"killerwpc.GitHub.io","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=bff7fdbbc39604b38729db78477661533372aff6">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://killerwpc.github.io/">killerwpc.GitHub.io</a></h1>
+      
+
+      <p>因部分国家博客如果很多文字发出不合规矩就会被屏蔽，别人看不到，所以到这个平台看看，人类发声应该不要阻止，如果发声人是错的，别人会不管，不能捂住发声的人，那样不对。</p>
+<h1 id="信条"><a href="https://github.com/killerwpc/killerwpc.GitHub.io/blob/main/%E4%BF%A1%E6%9D%A1/index.md" title="##信条">信条</a></h1>
+<div align="center"> 
+<img src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb2RxNGJ4X2V1UjBwUlp5Qm5YSGg3TG51dTQy.jpg" width="500" height="300" /> 
 </div>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
+</html>
