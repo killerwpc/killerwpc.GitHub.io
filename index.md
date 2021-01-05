@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -8,11 +8,11 @@
 <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title></title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="killerwpc.GitHub.io" />
+<meta property="og:title" content="" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://killerwpc.github.io/" />
-<meta property="og:url" content="https://killerwpc.github.io/" />
-<meta property="og:site_name" content="killerwpc.GitHub.io" />
+<link rel="canonical" href="https:///" />
+<meta property="og:url" content="/" />
+<meta property="og:site_name" content="" />
 <script type="application/ld+json">
 {"@type":"WebSite","headline":"killerwpc.GitHub.io","url":"https://killerwpc.github.io/","name":"killerwpc.GitHub.io","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
@@ -38,4 +38,4 @@
     <script>anchors.add();</script>
     
   </body>
-</html>
+
